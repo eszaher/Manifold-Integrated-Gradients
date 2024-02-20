@@ -15,11 +15,11 @@ Repository for Manifold Integrated Gradients: Riemannian Geometry for Feature At
 #### 112 Flowers Dataset
 
 1. **Download**: Access the [112 Flowers Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/) and download it.
-2. **Extract**: Decompress the dataset into the `datasets/112_flowers` directory 
+2. **Extract**: Decompress the dataset into the `datasets/oxford_flowers` directory 
 
 ### Configuration
 
-Update the project's configuration file to reflect the path and name of the dataset to use 
+Update the project's configuration file to reflect the path and name of the dataset to use.
 
 ## Training Instructions
 ### Environment Setup
