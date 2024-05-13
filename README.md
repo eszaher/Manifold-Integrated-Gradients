@@ -38,6 +38,6 @@ After training the VAE and saving the model, train the classifier using the trai
 3. Interactive session: Using the Jupyter Notebook `main_geodesic_ig.ipynb` for a more interactive training session and to explore our methods and results, use the provided Jupyter notebook. It guides you through the entire process, from data loading to model training and feature attributions.
 
 ## Minimum Hardware Requirements
-GPU: Tesla V100-SXM2-32GB
-Compute Environment: Single node on a Slurm-based HPC
-Ensure your hardware setup matches or exceeds these specifications to replicate our results.
+* GPU: Tesla V100-SXM2-32GB
+* Compute Environment: Single node on a Slurm-based HPC
+* Ensure your hardware setup matches or exceeds these specifications to replicate our results.
