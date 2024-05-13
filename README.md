@@ -1,5 +1,5 @@
 # Manifold-Integrated-Gradients
-Official implementation of the paper "Manifold Integrated Gradients: Riemannian Geometry for Feature Attribution", accepted at ICML 2024
+Official implementation of our paper "Manifold Integrated Gradients: Riemannian Geometry for Feature Attribution", accepted at ICML 2024
 
 
 
